@@ -1,7 +1,9 @@
 {
-  "name": "my-react-package",
-  "version": "0.1.0",
-  "private": true,
+  "name": "@emmazheng/emmapackage",
+  "version": "1.0.1",
+  "description": "emma test to publish a package",
+  "main": "./src/index.js",
+  "types": "./src/index.d.ts",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.3",
