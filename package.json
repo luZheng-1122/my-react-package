@@ -1,9 +1,14 @@
 {
   "name": "@emmazheng/emmapackage",
-  "version": "1.0.4",
+  "version": "1.0.7",
   "description": "emma test to publish a package",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
+  "files": [
+    "/dist",
+    "/src",
+    "/tsconfig.json"
+  ],
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.3",
