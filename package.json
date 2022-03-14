@@ -1,6 +1,6 @@
 {
   "name": "@emmazheng/emmapackage",
-  "version": "1.0.7",
+  "version": "1.0.9",
   "description": "emma test to publish a package",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
